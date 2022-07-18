@@ -10,5 +10,4 @@ while i < n-1:
     if mayor < listado[i]:
         mayor = listado[i]
         pos= i
-print("El mayor es: ",mayor, "En la posicion ",pos)
-    
+print("El mayor es: ",mayor, "En la posicion ",pos)  
